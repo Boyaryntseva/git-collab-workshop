@@ -14,6 +14,8 @@ body {
 .name {
 	display: inline-block;
 	font-size: 54px;
+	position: absolute;
+	top: 150px;
 
 }
 
@@ -25,6 +27,4 @@ body {
 
 .dog {
 	padding: 10px;
-	position: absolute;
-	top: 150px;
 }
