@@ -1,7 +1,8 @@
 
 footer {
 	text-align: center;
-}
+}	
+
 body {
 	background-color: white;
 	font-family: Helvetica;
@@ -13,6 +14,17 @@ body {
 .name {
 	display: inline-block;
 	font-size: 54px;
+
+}
+
+.puppys {
+	display: flex;
+	flex-direction: row;
+	align-content: space-around;
+}
+
+.dog {
+	padding: 10px;
 	position: absolute;
 	top: 150px;
 }
