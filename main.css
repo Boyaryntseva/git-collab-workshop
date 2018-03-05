@@ -1,0 +1,12 @@
+body {
+	background-color: white;
+	font-family: Helvetica;
+	color: silver;
+	max-width: 780px;
+	margin: 40px auto;
+}
+
+.name {
+	display: inline-block;
+	font-size: 54px;
+}
